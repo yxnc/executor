@@ -1,7 +1,5 @@
 --[[
-hypernite is a very cool man credits to him for cracking it
-this script uses your own executor's function and power so dont try to use scripts that you cant execute using your exploit
-enjoy
+hypernite cracked
 --]]
 
 spawn(function()
